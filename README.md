@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @Raphala27, a Software Engineering student specializing in AI systems, backend development, and fintech applications.
+👋 Hi, I'm @Raphala27, a Software Engineering specializing in AI systems, backend development, and fintech applications.
 - 🚀 What I do: I build production-ready AI solutions and microservices. Recently shipped an agentic chatbot to 100+ users using AWS Bedrock, and developed real-time trading bot monitoring systems handling $10k daily volume.
 - 💼 Experience: Software Engineer Intern at SwissBorg (AI/microservices) and freelance projects integrating LLMs, APIs, and automation tools.
 - 🛠️ Tech Stack: Python, TypeScript, Scala | AWS, Cloudflare | LLMs (OpenAI, AWS Bedrock) | Microservices (REST, gRPC) | React, Django
